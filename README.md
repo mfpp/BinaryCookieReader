@@ -1,7 +1,7 @@
 BinaryCookieReader
 ==================
 
-Python script to make readable the Apple's cookie file format (aka "Cookies.binarycookies").
+Python script to parse/read the Apple's cookie file format (aka "Cookies.binarycookies").
 
 Notes
 -----
